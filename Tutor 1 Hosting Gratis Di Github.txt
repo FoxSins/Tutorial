@@ -1,0 +1,26 @@
+Cara Memakai Github Sebagai Hosting
+Contoh Yang Sudah Jadi Ada Di FoxSins.github.io
+
+Syarat Menggunakan Github Sebagai Hosting
+A. Nama Repo Yang Di Buat Harus Berakhiran .Github.Io
+B. Harus Menggunakan Terminal Jika Di Windows Menggunakan GitBash
+
+Langkah2 Pembuatan :
+1. Buka Github.com
+2. Buat Repository Sesuai Dengan Sayarat
+3. Jangan Gunakan Reame.md (Tidak Di Contreng)
+4. Buka Folder Web Di File Exploler
+5. Klik Kanan -> Open GitBash Here
+6. Ketikan :
+  a. git init
+  b. git remote add origin https://github.com/FoxSins/foxsins.github.io.git (NB: Nama Alamat Ada Di Bagian Bawah Repo)
+  c. git remote
+  d. git status
+  e. git add . (NB : Guna (.) artinya semua file)
+  f. git commit -m "initial commit" (NB : status didalam string bebas)
+  g. git push -u origin master (NB : Sesuaikan Nama Branchnya disini contohnya brach default yaitu master)
+  h. git status jika tidak ada error dan file terupload dengan baik
+7. Buka Website Kalian :V
+
+Salam Serakah
+  
