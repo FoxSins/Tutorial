@@ -1,0 +1,12 @@
+Cara Install Laravel Ke Sebuah Project
+
+1. Pastikan Commposer Terinstall Dengan Ketik Commposer Di Gitbash
+2. composer create-project --prefer-dist laravel/laravel bebasnamanyaapa
+3. Cari Lokasinya Di Htdocs
+4. Gunakan Perintah cd
+5. cd .. untuk naik satu folder
+6. php artisan serve untuk aktifasi laravel di localhost
+7. Pastikan Xammp Panel Menyala
+8. Copy IP nya Ke Browser
+9. http://127.0.0.1:8000/
+10. Laravel Siap Digunakan :)
