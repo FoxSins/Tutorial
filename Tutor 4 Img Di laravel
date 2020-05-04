@@ -1,0 +1,3 @@
+Buat Folder Di Public
+Path Untuk Menampilkan Gambar Di Laravel
+<img src="{{asset('nama folder di public/nama file.ekstensi')}}">
