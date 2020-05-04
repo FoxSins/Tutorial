@@ -1,0 +1,35 @@
+Tag
+Kita dapat mengetikkan tag kemudian tekan tab.
+Sebagai contoh
+– ketik ‘html’
+– tekan tab
+– hasilnya ‘<html></html>’
+
+Class
+Kita juga dapat membuat tag class dengan cepat sebagai contoh
+– ketik ‘.alert.alert-danger’
+– tekan tab
+– hasilnya ‘<div class=”alert alert-danger”></div>’
+
+ID
+Kita juga dapat mempercepat pengetikan tag id dengan
+– ketik ‘span#judul’
+– tekan tab
+– hasilnya ‘<span id=”judul”></span>’
+
+Sebuah HTML Lengkap
+Kita juga dapat membuat sebuah html lengkap dengan
+– ketik ‘!’
+– tekan tab
+– hasilnya:
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+<meta charset=”UTF-8″>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+<meta http-equiv=”X-UA-Compatible” content=”ie=edge”>
+<title>Document</title>
+</head>
+<body>
+</body>
+</html>
