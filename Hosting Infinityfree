@@ -1,0 +1,15 @@
+Cara Pasang Laravel Di Infinityfree
+Our hosting is not really optimized for Laravel and other complex web application frameworks, but I think it’s possible.
+
+To upload Laravel, I think you need to do the following:
+
+    Copy the contents of the public folder to the root directory.
+    Install the Composer dependencies.
+    Prepare the .env file with all the required settings for your hosting account.
+    Upload the Laravel files to the htdocs folder of the domain you want to run it on.
+
+It’s not the prettiest way to do it, but it should work.
+
+
+Iki pasang ssl di cloudflare paket gratis
+password cloudflare nya Ricky2000+
